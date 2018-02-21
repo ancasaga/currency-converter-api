@@ -1,5 +1,5 @@
 package com.tunyk.currencyconverter.api;
-hola
+
 public interface CurrencyConverter {
 
     public Float convertCurrency(Float moneyAmount) throws CurrencyConverterException;
